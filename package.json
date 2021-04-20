@@ -1,0 +1,19 @@
+{
+  "name": "trending-algorithm",
+  "version": "1.0.7",
+  "description": "get trending value of a video from views comments and votes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sibongumusa Lungelo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-codes14/Trendin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/S-codes14/Trendin/issues"
+  },
+  "homepage": "https://github.com/S-codes14/Trendin#readme"
+}
